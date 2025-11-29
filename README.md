@@ -150,11 +150,3 @@ With dashboards and visual storytelling, stakeholders can easily interpret shopp
 🔸 Predict spending score or next purchase behavior  
 🔸 Add forecasting using Time Series Analytics  
 🔸 Deploy as an interactive Dashboard or App
-
----
-
-## 🔗 Author
-**Hemanth Goud**  
-Customer Behavior Analyst • Data Science Enthusiast  
-
----
