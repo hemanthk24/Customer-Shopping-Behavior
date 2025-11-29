@@ -141,8 +141,3 @@ The dashboard clearly presents:
 🔸 Predict next purchase or product interest  
 🔸 Deploy dashboard as live web app  
 🔸 Add time-series purchase forecasting  
-
----
-
----
-
